@@ -1,0 +1,110 @@
+c:\users\ib user\documents\visual studio 2013\Projects\TamilFruits\TamilFruits\bin\Debug\App.xbf
+c:\users\ib user\documents\visual studio 2013\Projects\TamilFruits\TamilFruits\bin\Debug\MainPage.xbf
+c:\users\ib user\documents\visual studio 2013\Projects\TamilFruits\TamilFruits\bin\Debug\TamilFruits.exe
+c:\users\ib user\documents\visual studio 2013\Projects\TamilFruits\TamilFruits\bin\Debug\TamilFruits.pdb
+c:\users\ib user\documents\visual studio 2013\Projects\TamilFruits\TamilFruits\bin\Debug\resources.pri
+c:\users\ib user\documents\visual studio 2013\Projects\TamilFruits\TamilFruits\bin\Debug\AppxManifest.xml
+c:\users\ib user\documents\visual studio 2013\Projects\TamilFruits\TamilFruits\bin\Debug\TamilFruits.build.appxrecipe
+c:\users\ib user\documents\visual studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\App.g.i.cs
+c:\users\ib user\documents\visual studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\App.g.cs
+c:\users\ib user\documents\visual studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\MainPage.g.i.cs
+c:\users\ib user\documents\visual studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\MainPage.g.cs
+c:\users\ib user\documents\visual studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\XamlTypeInfo.g.cs
+c:\users\ib user\documents\visual studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\App.xaml
+c:\users\ib user\documents\visual studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\App.xbf
+c:\users\ib user\documents\visual studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\XamlSaveStateFile.xml
+c:\users\ib user\documents\visual studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\MainPage.xaml
+c:\users\ib user\documents\visual studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\MainPage.xbf
+c:\users\ib user\documents\visual studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\TamilFruits.exe
+c:\users\ib user\documents\visual studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\TamilFruits.pdb
+c:\users\ib user\documents\visual studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\priconfig.xml
+c:\users\ib user\documents\visual studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\priconfig.xml.intermediate
+c:\users\ib user\documents\visual studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\layout.resfiles
+c:\users\ib user\documents\visual studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\layout.resfiles.intermediate
+c:\users\ib user\documents\visual studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\resources.resfiles
+c:\users\ib user\documents\visual studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\resources.resfiles.intermediate
+c:\users\ib user\documents\visual studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\pri.resfiles
+c:\users\ib user\documents\visual studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\pri.resfiles.intermediate
+c:\users\ib user\documents\visual studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\qualifiers.txt
+c:\users\ib user\documents\visual studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\qualifiers.txt.intermediate
+c:\users\ib user\documents\visual studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\ib user\documents\visual studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\ProjectArchitectures.txt
+C:\Users\IB USER\Documents\Visual Studio 2013\Projects\TamilFruits\TamilFruits\bin\Debug\FruitPage.xbf
+C:\Users\IB USER\Documents\Visual Studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\FruitPage.g.i.cs
+C:\Users\IB USER\Documents\Visual Studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\FruitPage.g.cs
+C:\Users\IB USER\Documents\Visual Studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\FruitPage.xaml
+C:\Users\IB USER\Documents\Visual Studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\FruitPage.xbf
+D:\Documents\Visual Studio 2013\Projects\TamilFruits\TamilFruits\bin\Debug\App.xbf
+D:\Documents\Visual Studio 2013\Projects\TamilFruits\TamilFruits\bin\Debug\FruitPage.xbf
+D:\Documents\Visual Studio 2013\Projects\TamilFruits\TamilFruits\bin\Debug\MainPage.xbf
+D:\Documents\Visual Studio 2013\Projects\TamilFruits\TamilFruits\bin\Debug\TamilFruits.exe
+D:\Documents\Visual Studio 2013\Projects\TamilFruits\TamilFruits\bin\Debug\TamilFruits.pdb
+D:\Documents\Visual Studio 2013\Projects\TamilFruits\TamilFruits\bin\Debug\resources.pri
+D:\Documents\Visual Studio 2013\Projects\TamilFruits\TamilFruits\bin\Debug\AppxManifest.xml
+D:\Documents\Visual Studio 2013\Projects\TamilFruits\TamilFruits\bin\Debug\TamilFruits.build.appxrecipe
+D:\Documents\Visual Studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\App.g.i.cs
+D:\Documents\Visual Studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\App.g.cs
+D:\Documents\Visual Studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\FruitPage.g.i.cs
+D:\Documents\Visual Studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\FruitPage.g.cs
+D:\Documents\Visual Studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\MainPage.g.i.cs
+D:\Documents\Visual Studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\MainPage.g.cs
+D:\Documents\Visual Studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\XamlTypeInfo.g.cs
+D:\Documents\Visual Studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\App.xaml
+D:\Documents\Visual Studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\FruitPage.xaml
+D:\Documents\Visual Studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\MainPage.xaml
+D:\Documents\Visual Studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\App.xbf
+D:\Documents\Visual Studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\FruitPage.xbf
+D:\Documents\Visual Studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\MainPage.xbf
+D:\Documents\Visual Studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\XamlSaveStateFile.xml
+D:\Documents\Visual Studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\TamilFruits.exe
+D:\Documents\Visual Studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\TamilFruits.pdb
+D:\Documents\Visual Studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\priconfig.xml
+D:\Documents\Visual Studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\priconfig.xml.intermediate
+D:\Documents\Visual Studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\layout.resfiles
+D:\Documents\Visual Studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\layout.resfiles.intermediate
+D:\Documents\Visual Studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\resources.resfiles
+D:\Documents\Visual Studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\resources.resfiles.intermediate
+D:\Documents\Visual Studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\pri.resfiles
+D:\Documents\Visual Studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\pri.resfiles.intermediate
+D:\Documents\Visual Studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\qualifiers.txt
+D:\Documents\Visual Studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\qualifiers.txt.intermediate
+D:\Documents\Visual Studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Documents\Visual Studio 2013\Projects\TamilFruits\TamilFruits\obj\Debug\ProjectArchitectures.txt
+D:\Documents\Visual Studio 2013\Projects\TamilFruits\TamilFruits\bin\Debug\TamilFruits.xr.xml
+D:\Documents\GitHub\TamilFruits\TamilFruits\bin\Debug\App.xbf
+D:\Documents\GitHub\TamilFruits\TamilFruits\bin\Debug\FruitPage.xbf
+D:\Documents\GitHub\TamilFruits\TamilFruits\bin\Debug\MainPage.xbf
+D:\Documents\GitHub\TamilFruits\TamilFruits\bin\Debug\TamilFruits.xr.xml
+D:\Documents\GitHub\TamilFruits\TamilFruits\bin\Debug\TamilFruits.exe
+D:\Documents\GitHub\TamilFruits\TamilFruits\bin\Debug\TamilFruits.pdb
+D:\Documents\GitHub\TamilFruits\TamilFruits\bin\Debug\resources.pri
+D:\Documents\GitHub\TamilFruits\TamilFruits\bin\Debug\AppxManifest.xml
+D:\Documents\GitHub\TamilFruits\TamilFruits\bin\Debug\TamilFruits.build.appxrecipe
+D:\Documents\GitHub\TamilFruits\TamilFruits\obj\Debug\App.g.i.cs
+D:\Documents\GitHub\TamilFruits\TamilFruits\obj\Debug\App.g.cs
+D:\Documents\GitHub\TamilFruits\TamilFruits\obj\Debug\FruitPage.g.i.cs
+D:\Documents\GitHub\TamilFruits\TamilFruits\obj\Debug\FruitPage.g.cs
+D:\Documents\GitHub\TamilFruits\TamilFruits\obj\Debug\MainPage.g.i.cs
+D:\Documents\GitHub\TamilFruits\TamilFruits\obj\Debug\MainPage.g.cs
+D:\Documents\GitHub\TamilFruits\TamilFruits\obj\Debug\XamlTypeInfo.g.cs
+D:\Documents\GitHub\TamilFruits\TamilFruits\obj\Debug\App.xaml
+D:\Documents\GitHub\TamilFruits\TamilFruits\obj\Debug\FruitPage.xaml
+D:\Documents\GitHub\TamilFruits\TamilFruits\obj\Debug\MainPage.xaml
+D:\Documents\GitHub\TamilFruits\TamilFruits\obj\Debug\App.xbf
+D:\Documents\GitHub\TamilFruits\TamilFruits\obj\Debug\FruitPage.xbf
+D:\Documents\GitHub\TamilFruits\TamilFruits\obj\Debug\MainPage.xbf
+D:\Documents\GitHub\TamilFruits\TamilFruits\obj\Debug\XamlSaveStateFile.xml
+D:\Documents\GitHub\TamilFruits\TamilFruits\obj\Debug\TamilFruits.exe
+D:\Documents\GitHub\TamilFruits\TamilFruits\obj\Debug\TamilFruits.pdb
+D:\Documents\GitHub\TamilFruits\TamilFruits\obj\Debug\priconfig.xml
+D:\Documents\GitHub\TamilFruits\TamilFruits\obj\Debug\priconfig.xml.intermediate
+D:\Documents\GitHub\TamilFruits\TamilFruits\obj\Debug\layout.resfiles
+D:\Documents\GitHub\TamilFruits\TamilFruits\obj\Debug\layout.resfiles.intermediate
+D:\Documents\GitHub\TamilFruits\TamilFruits\obj\Debug\resources.resfiles
+D:\Documents\GitHub\TamilFruits\TamilFruits\obj\Debug\resources.resfiles.intermediate
+D:\Documents\GitHub\TamilFruits\TamilFruits\obj\Debug\pri.resfiles
+D:\Documents\GitHub\TamilFruits\TamilFruits\obj\Debug\pri.resfiles.intermediate
+D:\Documents\GitHub\TamilFruits\TamilFruits\obj\Debug\qualifiers.txt
+D:\Documents\GitHub\TamilFruits\TamilFruits\obj\Debug\qualifiers.txt.intermediate
+D:\Documents\GitHub\TamilFruits\TamilFruits\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Documents\GitHub\TamilFruits\TamilFruits\obj\Debug\ProjectArchitectures.txt

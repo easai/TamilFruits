@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>IBPCC</Machine>
+    <WindowsUser>IB USER</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>24e8f6d0-dc34-4add-9c65-f15888a1107b</PackageIdentityName>
+    <IntermediateOutputPath>D:\Documents\GitHub\TamilFruits\TamilFruits\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>57547D4C5A3434434BF0BB5FCA174E48F1751DEA064EBDB9196AEC31C7866F61</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>24e8f6d0-dc34-4add-9c65-f15888a1107b_1.0.0.0_neutral__b7s2wfk28qwtw</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>24e8f6d0-dc34-4add-9c65-f15888a1107b_b7s2wfk28qwtw!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>24e8f6d0-dc34-4add-9c65-f15888a1107b</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=IB USER</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Documents\GitHub\TamilFruits\TamilFruits\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-11T17:18:46.779</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Documents\GitHub\TamilFruits\TamilFruits\bin\Debug\TamilFruits.exe">
+      <PackagePath>TamilFruits.exe</PackagePath>
+      <Modified>2015-06-23T13:09:17.715</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\GitHub\TamilFruits\TamilFruits\Assets\coconuts.png">
+      <PackagePath>Assets\coconuts.png</PackagePath>
+      <Modified>2013-11-10T03:05:13.544</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\GitHub\TamilFruits\TamilFruits\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-10T02:25:58.849</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\GitHub\TamilFruits\TamilFruits\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <Modified>2013-11-10T02:31:53.450</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\GitHub\TamilFruits\TamilFruits\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-09T20:13:56.163</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\GitHub\TamilFruits\TamilFruits\Assets\Square30x30Logo.scale-100.png">
+      <PackagePath>Assets\Square30x30Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-10T02:31:53.450</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\GitHub\TamilFruits\TamilFruits\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-10T02:28:14.715</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\GitHub\TamilFruits\TamilFruits\Assets\grapes.jpg">
+      <PackagePath>Assets\grapes.jpg</PackagePath>
+      <Modified>2013-11-09T17:02:27.455</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\GitHub\TamilFruits\TamilFruits\Assets\mango.JPG">
+      <PackagePath>Assets\mango.JPG</PackagePath>
+      <Modified>2013-11-09T17:02:42.848</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\GitHub\TamilFruits\TamilFruits\Assets\papaya.jpg">
+      <PackagePath>Assets\papaya.jpg</PackagePath>
+      <Modified>2013-11-09T17:02:47.733</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\GitHub\TamilFruits\TamilFruits\Assets\tamarind.JPG">
+      <PackagePath>Assets\tamarind.JPG</PackagePath>
+      <Modified>2013-11-09T17:02:52.110</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\GitHub\TamilFruits\TamilFruits\Assets\ta-mango.mp3">
+      <PackagePath>Assets\ta-mango.mp3</PackagePath>
+      <Modified>2013-11-10T12:15:53.457</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\GitHub\TamilFruits\TamilFruits\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2013-11-09T17:12:28.035</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\GitHub\TamilFruits\TamilFruits\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2013-11-09T17:16:38.881</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\GitHub\TamilFruits\TamilFruits\bin\Debug\FruitPage.xbf">
+      <PackagePath>FruitPage.xbf</PackagePath>
+      <Modified>2013-12-01T23:41:24.903</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\GitHub\TamilFruits\TamilFruits\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2013-11-16T19:57:22.996</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\GitHub\TamilFruits\TamilFruits\bin\Debug\TamilFruits.xr.xml">
+      <PackagePath>TamilFruits.xr.xml</PackagePath>
+      <Modified>2015-06-11T17:18:46.369</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\GitHub\TamilFruits\TamilFruits\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-06-11T17:18:46.649</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
